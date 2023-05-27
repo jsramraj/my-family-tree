@@ -37,10 +37,12 @@
           onClick: importXMLHandler,
         },
       },
+      miniMap: true,
       nodeTreeMenu: true,
       mouseScrool: FamilyTree.action.none,
       nodeBinding: {
         field_0: "name",
+        img_0: "img",
       },
     });
     family.loadXML(familyData());

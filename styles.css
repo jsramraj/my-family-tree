@@ -12,3 +12,10 @@ html, body{
     height:100%;
   }
   
+  svg.tommy .node.male>rect {
+    fill: #039be5;
+  }   
+  
+  svg.tommy .node.female>rect {
+    fill: #FF46A3;
+  }  
