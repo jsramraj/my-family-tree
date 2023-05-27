@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes>
+    <node id="1" pids="2" name="Annathai" gender="female" />
+    <node id="2" pids="1" name="Ramasamy Nadar" gender="male" />
+    <node id="3" mid="1" fid="2" name="Iyadurai" gender="male" pids="" />
+    <node mid="2" fid="1" gender="male" id="_di2c" name="Thangapandi (Kannu)" pids="" />
+    <node mid="2" fid="1" gender="female" id="_pqmj" name="Alli" pids="" />
+    <node mid="2" fid="1" gender="female" id="_08ld" name="Sarasa" pids="" />
+    <node mid="2" fid="1" gender="male" id="_yv1t" name="Duraisamy (ChinnaPaul)" pids="" />
+    <node mid="2" fid="1" gender="male" id="_mydg" name="Sivaperumal (Durai)" pids="" />
+</nodes>
